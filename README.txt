@@ -1,7 +1,7 @@
 Convertisseur de Devises
 Ce script Python utilise la bibliothèque PySide6 pour créer une application graphique de conversion de devises. L'application utilise le module currency_converter pour effectuer les conversions entre différentes devises.
 
-Fonctionnalités
+Fonctionnalités :
 Interface Graphique Intuitive : L'application offre une interface utilisateur conviviale avec des composants tels que des menus déroulants pour la sélection des devises, des zones de saisie pour les montants, et un bouton pour inverser les devises.
 
 Conversion en Temps Réel : Les conversions sont effectuées en temps réel dès que l'utilisateur modifie les paramètres de conversion, fournissant ainsi des résultats instantanés.
